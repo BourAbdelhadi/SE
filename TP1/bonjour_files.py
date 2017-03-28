@@ -5,6 +5,7 @@ Le premier prgramme en Python
 * les threads
 * le logger
 @author Dragos STOICA
+@eddited by Bour Mohamed Abdelhadi
 @version 0.4
 @date 16.feb.2014
 """
