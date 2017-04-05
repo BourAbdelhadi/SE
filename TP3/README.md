@@ -2,7 +2,7 @@
 
 This is a simple chat application using sockets & thread , the client can send a message to the server and the server broadcast the message to all the other clients without sending to the one who sent
 
-# How to use ?
+# How to use it ?
 
 1. run the chat_server.py:
 ```
